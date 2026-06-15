@@ -1,2 +1,2 @@
-# aisecplus-week01-OloladeAbiola
+# aisecplus-week01-servicenow-ai-security-incident
 Research and analysis of the ServiceNow Virtual Agent vulnerability (CVE-2025-12420), including attack flow, MITRE ATT&amp;CK mapping, detection strategies, and mitigation recommendations.
